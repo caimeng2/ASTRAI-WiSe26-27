@@ -50,7 +50,7 @@ The schedule and topics may change based on class progress and interests.
 
 Week 1 (Oct 14, 2026): Welcome to ASTRAI
 
-Week 2 (Oct 21, 2026): `git`; presenting your initial ideas for YOU-lead
+Week 2 (Oct 21, 2026): Git; presenting your initial ideas for YOU-lead
 
 Week 3 (Oct 28, 2026): Traffic flow simulation ([Dr.-Ing. Wei Jiang](https://www.linkedin.com/in/wei-jiang-52083a32/))
 
