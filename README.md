@@ -30,9 +30,9 @@ This class has no required textbook. We will direct you toward online resources 
 
 **Pre-class requirement**: From time to time, you will need to sign up for accounts or install essential software before class so that we can focus on implementation and experimentation in class.
 
-**In-class activities**: Practicing coding, debugging, etc. This allows you to immediately implement and get feedback on what you have just learned.
+**In-class activities**: Practicing coding, debugging, discussions, etc. This allows you to immediately implement and get feedback on what you have just learned.
 
-**Student-led (YOU-lead) learning**: You are expected to present the computational research method that serves as the method of your research proposal (i.e., your exam) and the software through which it will be implemented. You will study the method and software in depth and explain them to your peers in class. This approach allows you to take ownership of your learning while fostering a collaborative learning environment, and it feeds directly into the proposal you submit for examination. Good performance in this presentation can improve your final grade by up to 0.4 points.
+**Student-led learning (YOU-lead)**: You are expected to present the computational research method that serves as the method of your research proposal (i.e., your exam) and the software through which it will be implemented. You will **study the method and software in depth** and **explain them to your peers in class**. This approach allows you to take ownership of your learning while fostering a collaborative learning environment, and it feeds directly into the proposal you submit for examination. Good performance in this presentation can improve your final grade by up to 0.4 points.
 
 **Final examination**: You are required to develop a one-page research proposal (excluding references) on a topic of your choice. The proposal must incorporate the computational method you studied and presented in class. It should cover the current state of research on the topic, the research questions, the methodology (including data sources and the software used), and the limitations of the chosen method.
 
@@ -54,7 +54,7 @@ Week 2 (Oct 21, 2026): `git`; presenting your initial ideas for YOU-lead
 
 Week 3 (Oct 28, 2026): Traffic flow simulation ([Dr.-Ing. Wei Jiang](https://www.linkedin.com/in/wei-jiang-52083a32/))
 
-Week 4 (Nov 4, 2026): Gaming for science
+Week 4 (Nov 4, 2026): Gaming for science ([M.Sc. Vijay Palliyil](https://www.verkehr.tu-darmstadt.de/vv/das_institut_ivv/team_ivv/wissenschaftliche_mitarbeiter_doktoranden/m__sc___vijay_gopal_vazhoth_palliyil/.en.jsp))
 
 Week 5 (Nov 11, 2026): Python basics (asynchronous self-study session)
 
