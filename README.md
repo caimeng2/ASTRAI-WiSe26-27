@@ -48,7 +48,7 @@ Your choice can be anything within the scope of this course, as long as it is **
 
 The schedule and topics may change based on class progress and interests.
 
-Week 1 (Oct 14, 2026): Welcome to ASTRAI
+Week 1 (Oct 14, 2026): Welcome to ASTRAI; AI agent in virtual reality ([Morteza Eshkiknezhad](https://www.linkedin.com/in/morteza-eshkiknezhad/))
 
 Week 2 (Oct 21, 2026): Git; presenting your initial ideas for YOU-lead
 
