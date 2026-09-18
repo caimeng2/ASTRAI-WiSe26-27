@@ -34,7 +34,7 @@ This class has no required textbook. We will direct you toward online resources 
 
 **Student-led learning (YOU-lead)**: You are expected to present the computational research method that serves as the method of your research proposal (i.e., your exam) and the software through which it will be implemented. You will **study the method and software in depth** and **explain them to your peers in class**. This approach allows you to take ownership of your learning while fostering a collaborative learning environment, and it feeds directly into the proposal you submit for examination. Good performance in this presentation can improve your final grade by up to 0.4 points.
 
-**Final examination**: You are required to develop a one-page research proposal (excluding references) on a topic of your choice. The proposal must incorporate the computational method you studied and presented in class. It should cover the current state of research on the topic, the research questions, the methodology (including data sources and the software used), and the limitations of the chosen method.
+**Final examination**: You are required to develop a research proposal on a topic of your choice. The proposal must incorporate the computational method you studied and presented in class. It should cover the current state of research on the topic, the research questions, the methodology (including data sources and the software used), and the limitations of the chosen method.
 
 ## Possible topics for YOU-lead sessions
 
