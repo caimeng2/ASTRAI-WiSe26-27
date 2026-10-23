@@ -62,11 +62,11 @@ Week 6 (Nov 18, 2026): Web scraping
 
 Week 7 (Nov 25, 2026): Data wrangling; signing up for a YOU-lead slot
 
-Week 8 (Dec 2, 2026): Open-source tools
+Week 8 (Dec 2, 2026): Open-source tools; research design and methodology
 
-Week 9 (Dec 9, 2026): Research design and methodology; confirming your topic for YOU-lead
+Week 9 (Dec 9, 2026): Machine learning, AI, and LLMs; confirming your topic for YOU-lead
 
-Week 10 (Dec 16, 2026): Machine learning, AI, and LLMs
+Week 10 (Dec 16, 2026): Working on your proposal (self-study)
 
 Week 11 (Jan 13, 2027): YOU-lead session
 
@@ -76,7 +76,7 @@ Week 13 (Jan 27, 2027): YOU-lead session
 
 Week 14 (Feb 3, 2027): YOU-lead session
 
-Week 15 (Feb 10, 2027): Working on your proposal
+Week 15 (Feb 10, 2027): YOU-lead session
 
 ## FAQs
 
