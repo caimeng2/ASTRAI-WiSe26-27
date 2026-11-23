@@ -60,7 +60,7 @@ Week 5 (Nov 11, 2026): Python basics (asynchronous self-study session)
 
 Week 6 (Nov 18, 2026): Web scraping
 
-Week 7 (Nov 25, 2026): Data wrangling; signing up for a YOU-lead slot
+Week 7 (Nov 25, 2026): Data wrangling; signing up for a YOU-lead slot [here](https://docs.google.com/spreadsheets/d/1qbWoIOMsHtwzU4a0uE1dZ0cJjIVChUzdqmfOK58S3ME/edit?usp=sharing)
 
 Week 8 (Dec 2, 2026): Open-source tools; research design and methodology
 
